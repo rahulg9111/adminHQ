@@ -1,0 +1,12 @@
+{
+    "origins": ["http://localhost:8000"],
+    "tables": {
+        "TABLE_1": "test_table_1"
+    },
+    "levels": {
+        "BASIC": 0,
+        "VENDOR": 1,
+        "ADMIN": 2
+    },
+    "DB_HOST" : "mongodb://localhost/adminhq"
+}
